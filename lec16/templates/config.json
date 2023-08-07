@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+        "blog-name": "CodingThunder",
+        "local_server": true,
+        "local_uri": "mysql://root@:loclhost/codingthunder",
+        "prod_uri": "mysql://root@:loclhost/codingthunder",
+        "gmail-user": "",
+        "gmail-password": "",
+        "about-text": "",
+        "num-of-posts": 5,
+        "admin-user": "admin",
+        "admin-password": "admin"
+    }
+}

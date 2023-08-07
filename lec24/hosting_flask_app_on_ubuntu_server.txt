@@ -1,0 +1,3 @@
+domain -> dns -> A record (@ - IP) -> pointed
+
+wsgi server

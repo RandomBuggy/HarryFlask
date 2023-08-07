@@ -1,0 +1,8 @@
+{
+    "params":
+    {
+        "local_server": true,
+        "local_uri": "mysql://root@:loclhost/codingthunder",
+        "prod_uri": "mysql://root@:loclhost/codingthunder"
+    }
+}
